@@ -1,0 +1,1 @@
+export { archiveDescription } from './archive';
