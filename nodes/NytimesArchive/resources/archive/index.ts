@@ -85,7 +85,7 @@ export const archiveDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_apikey",
 			"type": "string",
 			"default": "",

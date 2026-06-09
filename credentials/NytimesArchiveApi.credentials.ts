@@ -8,7 +8,7 @@ import type {
 export class NytimesArchiveApi implements ICredentialType {
 	name = 'N8nDevNytimesArchiveApi';
 
-	displayName = 'nytimes-archive API';
+	displayName = 'Nytimes Archive API';
 
 	icon: Icon = { light: 'file:../nodes/NytimesArchive/nytimes-archive.png', dark: 'file:../nodes/NytimesArchive/nytimes-archive.dark.png' };
 
@@ -22,7 +22,7 @@ export class NytimesArchiveApi implements ICredentialType {
 			default: 'http://api.nytimes.com/svc/archive/v1',
 			required: true,
 			placeholder: 'http://api.nytimes.com/svc/archive/v1',
-			description: 'The base URL of your nytimes-archive API server',
+			description: 'The base URL of your Nytimes Archive API server',
 		},
 		{
 			displayName: 'API Key',

@@ -53,9 +53,12 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Archive | Get archive api |
+<details>
+<summary><b>Archive</b> (1 operations)</summary>
+
+- Get Archive API
+
+</details>
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-nytimes-archive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Archive API provides lists of NYT articles by month going back to 1851. You can use it to build your own local database of NYT article metadata",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-nytimes-archive",
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "nytimes-archive"
